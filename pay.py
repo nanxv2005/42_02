@@ -5,5 +5,4 @@ pay=2
 
 pay=3
 
-oo
-over
+pay=4
