@@ -7,5 +7,5 @@
  num4=400
 
  num=500
- 
+ game 
  over
