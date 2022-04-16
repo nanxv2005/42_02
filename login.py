@@ -8,6 +8,7 @@
 
  num5=500
  
- uum6=666
+ num6=666
 
+ num7=999
  over
