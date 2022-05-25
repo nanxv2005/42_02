@@ -11,4 +11,4 @@
  num6=666
 
  num7=999
- over
+ game over
